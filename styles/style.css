@@ -25,3 +25,7 @@ h2 {
     font-size: 25px;
     color: rgb(161, 90, 228);
 }
+
+img.lado {
+    float: right;
+}
